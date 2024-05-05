@@ -1,0 +1,19 @@
+body{
+    background-image: url('fondo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #FFFFFF;
+}
+
+.bg-transparent:hover {
+    border: 1px solid #9230e2;
+}
+
+.card-project:hover{
+    border: 2px solid #52cf17;
+    cursor: pointer;
+    background-color: rgba(117, 159, 221, 0.644);
+}
+
